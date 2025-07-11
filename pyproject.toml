@@ -12,7 +12,7 @@ dependencies = { file = ["requirements.txt"] }
 name = "mfd-ping"
 description = "Module for handling basic ping command operations over different operating systems for network diagnostic purposes."
 requires-python = ">=3.10, <3.14"
-version = "1.14.0"
+version = "1.15.0"
 dynamic = ["dependencies"]
 license-files = ["LICENSE.md", "AUTHORS.md"]
 readme = {file = "README.md", content-type = "text/markdown"}
