@@ -1,0 +1,5 @@
+-r requirements-test.txt  # Ensure tests dependencies are automatically included
+
+# Put additional dependencies needed for development here
+
+mfd-code-quality >= 1.2.0, < 2
