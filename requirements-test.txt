@@ -1,7 +1,7 @@
 -r requirements.txt  # Ensure tests dependencies are automatically included
 
 # Put dependencies required for testing the module here
-pytest ~= 8.4
+pytest >= 9.0.3, < 10
 pytest-mock ~= 3.14
 mfd_connect>=7.12.0
 coverage ~= 7.3.0
