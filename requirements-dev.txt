@@ -2,4 +2,4 @@
 
 # Put additional dependencies needed for development here
 
-mfd-code-quality >= 1.2.0, < 2
+mfd-code-quality >= 1.4.1, < 2
