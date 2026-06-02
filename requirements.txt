@@ -4,4 +4,4 @@ mfd_kernel_namespace >= 1.8.0
 netaddr ~= 0.8.0
 mfd-esxi >= 3.2.0, < 4
 mfd-traffic-manager~=1.18
-mfd-typing >=1.23.0,<2
+mfd-typing >=1.25.0,<2
